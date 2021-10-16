@@ -1,0 +1,26 @@
+/*
+  dracula - https://github.com/node-red-contrib-themes/dracula
+*/
+
+.red-ui-editor {
+  scrollbar-color: #F8F8F2 transparent;
+  scrollbar-width: initial;
+}
+
+::-webkit-scrollbar {
+  width: initial;
+}
+
+::-webkit-scrollbar-corner {
+  background-color: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #F8F8F2;
+  border-radius: 20px;
+  border: 3px solid #282A36;
+}
+
+::-webkit-scrollbar-track {
+  background-color: transparent;
+}

@@ -1,0 +1,7 @@
+.DS_Store
+._*
+.git*
+images
+*.scss
+*.css
+!*.min.css
