@@ -1,4 +1,4 @@
-# Dracula Node-RED theme
+# Node-RED Contrib Theme: Dracula
 
 ![Project Maintenance][maintenance-shield]
 [![License][license-shield]](LICENSE)
