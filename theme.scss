@@ -78,19 +78,19 @@ $form-button-background: $secondary-background-selected;
 $form-tips-background: $primary-background;
 
 
-$text-editor-color: #282A36;//#00f;
+$text-editor-color: $primary-text-color;//#00f;
 $text-editor-background: $secondary-background;
 $text-editor-color-disabled: $secondary-text-color-inactive;
 $text-editor-background-disabled: $secondary-background-disabled;
-$text-editor-gutter-background: #f6f6f6;//#ee0;
-$text-editor-gutter-color: #777;//#00e;
+$text-editor-gutter-background: $primary-background;//#ee0;
+$text-editor-gutter-color: $primary-text-color;//#00e;
 $text-editor-gutter-active-line-background: #dcdcdc;//#dd0;
 $text-editor-active-line-background: #efefef;//#ee0;
-$text-editor-selection-background: #D6D6D6;//#e0e;
+$text-editor-selection-background: $primary-background;//#e0e;
 
-$event-log-background: #44475A;
-$event-log-color: #F1FA8C;
-$event-log-active-line-background: #282A36;
+$event-log-background: $secondary-background;
+$event-log-color: $primary-text-color;
+$event-log-active-line-background: $primary-background;
 $event-log-selection-background: #999;
 
 
@@ -284,7 +284,7 @@ $debug-message-text-color-msg-type-null: #6272A4;
 $debug-message-text-color-msg-type-meta: #6272A4;
 $debug-message-text-color-msg-type-number: #8BE9FD;
 
-$debug-message-border: #282A36;
+$debug-message-border: $primary-background;
 $debug-message-border-hover: #44475A;
 $debug-message-border-warning: $border-color-warning;
 $debug-message-border-error: $border-color-error;
