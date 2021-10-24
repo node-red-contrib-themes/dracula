@@ -223,26 +223,26 @@ button.red-ui-typedInput-option-trigger .red-ui-typedInput-option-label img {
 /*
 * SVG images
 */
-  .red-ui-tabs ul li.active img.red-ui-tab-icon {
-    filter: brightness(0) saturate(100%) invert(95%) sepia(3%) saturate(912%) hue-rotate(330deg) brightness(107%) contrast(94%);
-  }
+.red-ui-tabs ul li img.red-ui-tab-icon {
+  filter: brightness(0) saturate(100%) invert(95%) sepia(3%) saturate(912%) hue-rotate(330deg) brightness(107%) contrast(94%);
+}
 
-  .red-ui-icons-flow {
-    filter: brightness(0) saturate(100%) invert(95%) sepia(3%) saturate(912%) hue-rotate(330deg) brightness(107%) contrast(94%);
-  }
-  
-  .red-ui-treeList-spinner {
-    filter: brightness(0) saturate(100%) invert(95%) sepia(3%) saturate(912%) hue-rotate(330deg) brightness(107%) contrast(94%);
-  }
-  
-  .red-ui-editor i.spinner,
-  .red-ui-editor-dialog i.spinner,
-  .red-ui-menu i.spinner,
-  .red-ui-popover i.spinner,
-  .red-ui-typedInput-options i.spinner,
-  .red-ui-icon-picker i.spinner {
-    filter: brightness(0) saturate(100%) invert(95%) sepia(3%) saturate(912%) hue-rotate(330deg) brightness(107%) contrast(94%);
-  }
+.red-ui-icons-flow {
+  filter: brightness(0) saturate(100%) invert(95%) sepia(3%) saturate(912%) hue-rotate(330deg) brightness(107%) contrast(94%);
+}
+
+.red-ui-treeList-spinner {
+  filter: brightness(0) saturate(100%) invert(95%) sepia(3%) saturate(912%) hue-rotate(330deg) brightness(107%) contrast(94%);
+}
+
+.red-ui-editor i.spinner,
+.red-ui-editor-dialog i.spinner,
+.red-ui-menu i.spinner,
+.red-ui-popover i.spinner,
+.red-ui-typedInput-options i.spinner,
+.red-ui-icon-picker i.spinner {
+  filter: brightness(0) saturate(100%) invert(95%) sepia(3%) saturate(912%) hue-rotate(330deg) brightness(107%) contrast(94%);
+}
 
 /*
 * jQuery ui widgets
