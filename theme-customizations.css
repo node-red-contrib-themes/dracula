@@ -21,7 +21,7 @@
 }
 
 .ace-tomorrow .ace_marker-layer .ace_selection {
-  background: #44475a
+  background: rgba(255, 255, 255, 0.1);
 }
 
 .ace-tomorrow.ace_multiselect .ace_selection.ace_start {
